@@ -8,6 +8,14 @@ A collection of previously encountered defects on the path towards transitioning
 
 Documentation that makes defect tracking easier, enabling developers to more effectively and quickly address unwanted issues. Constructed from basic elements such as:
 
+- **Title**
+  
+The title should be concise and at this stage precisely define and guide the programmer on the spectrum of its occurrence/functionality.<br>
+<br>
+
+![image](https://github.com/maciej-siciarski/Bugs/assets/147531793/c636c54e-00d3-4912-94fe-d5f8bc1f6054)
+
+
 - **Linked Test-Case**
   
    This allows us to easily trace documentation related to any potential error, which can be particularly crucial when secondary errors arise during regression testing.<br>
