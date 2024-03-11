@@ -2,6 +2,8 @@
 
 A collection of previously encountered defects on the path towards transitioning to a software testing career. I am continuously seeking opportunities to discover more software bugs, which helps in further developing my skills.
 
+⚠ Navigate to the "Issues" section manually or click here [My Bug Collection](https://github.com/maciej-siciarski/Bugs/issues) ⚠
+
 ## **Bug Reports**
 
 Documentation that makes defect tracking easier, enabling developers to more effectively and quickly address unwanted issues. Constructed from basic elements such as:
