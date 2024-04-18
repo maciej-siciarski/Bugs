@@ -13,7 +13,7 @@ Documentation that makes defect tracking easier, enabling developers to more eff
 The title should be concise and at this stage precisely define and guide the programmer on the spectrum of its occurrence/functionality.<br>
 <br>
 
-![image](https://github.com/maciej-siciarski/Bugs/assets/147531793/c636c54e-00d3-4912-94fe-d5f8bc1f6054)
+![image](https://github.com/maciej-siciarski/Bugs/assets/147531793/2dc54421-e585-41a5-be6f-6d2ee89a839f)
 
 
 - **Linked Test-Case**
@@ -54,3 +54,5 @@ The title should be concise and at this stage precisely define and guide the pro
 
 
 https://github.com/maciej-siciarski/Bugs/assets/147531793/c0ffac66-52cc-47c3-afa9-ebc295e0b23f
+
+      ⚠ Disclaimer: the above attachment does not relate to the test case described above, but serves only as a sample model of the correct form. ⚠ 
